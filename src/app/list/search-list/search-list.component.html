@@ -1,0 +1,20 @@
+<p>
+  Welcome To List
+</p>
+
+<div>
+  <table>
+    <thead>
+      <th>Name</th>
+      <th>Age</th>
+      <th>Phone No</th>
+    </thead>
+    <tbody>
+      <tr *ngFor = "let obj of data | searchFilter : searchKeyWord">
+        <td>{{obj.name}}</td>
+        <td>{{obj.age}}</td>
+        <td>{{obj.phoneNo}}</td>
+      </tr>
+    </tbody>
+  </table>  
+</div>

@@ -1,0 +1,23 @@
+[
+    {
+      "id":"1",
+      "name":"Angular",
+      "Duration":"60 Days",
+      "Content":"Introduction for Angular"
+    },{
+      "id":"2",
+      "name":"React Js",
+      "Duration":"45 Days",
+      "Content":"Introduction for React js"
+    },{
+      "id":"3",
+      "name":"Python",
+      "Duration":"25 days",
+      "Content":"Introduction for python"
+    },{
+       "id":"4",
+        "name":"Selenium",
+        "Duration":"45 days",
+        "Content":"Introduction for Selenium"
+      }
+]
